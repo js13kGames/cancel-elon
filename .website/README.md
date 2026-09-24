@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - card-games
+  - strategy
 directors_cut: https://elfprince.com/cancelelon/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
